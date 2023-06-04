@@ -22,7 +22,7 @@ make
 ```
 This will create the Ray-Tracer executable within the build directory.
 
-##Running
+## Running
 To run the application, simply execute the binary:
 ```
 ./Ray-Tracer
